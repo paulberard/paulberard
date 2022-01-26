@@ -1,6 +1,6 @@
 # 👋 Hello, world!
 
-📚 Hi all, I’m @paulberard. I'm currently pursuing a Master of Engineering (AI, Computer Science, Applied Mathematics, Physics) at CentraleSupélec (Paris-Saclay University), one of France’s leading Engineering Schools.
+📚 Hi all, I’m @paulberard. I'm pursuing a Master of Engineering (AI, Computer Science, Applied Mathematics, Physics) at CentraleSupélec (Paris-Saclay University), one of France’s leading Engineering Schools.
 
 📈 I'm passionate about AI, Machine Learning technologies and Data Science. I'm currently developing my skillset in those subjects through internships and additional courses to keep creating cool projects and hopefully make a positive impact along the way.
 
